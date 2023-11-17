@@ -1,0 +1,11 @@
+#cabecera {
+    background-color: rgb(192, 225, 255)192, 196, 255);
+    padding: 20px;
+    text-align: center;
+  }
+
+  footer {
+    background-color: rgb(212, 255, 192);
+    padding: 10px;
+    text-align: center;
+  }
